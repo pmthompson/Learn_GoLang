@@ -1,0 +1,7 @@
+SA/P@55word
+
+
+Set svr=VM17\VM17_SQLSERVER
+Set db=VM17_SBM_AE_OE_REPO_CL
+Set uid=VM17_SBM
+Set pwd=P@55word
