@@ -1,0 +1,5 @@
+/* Copyright (C) 2017 Arapaho Code Ranch Inc - All Rights Reserved
+ * Unauthorized copying of this file, via any medium is strictly prohibited
+ * Proprietary and confidential
+ * Written by Paul Thompson <paul_m_thompson@yahoo.com>, Mar 2017
+ */
